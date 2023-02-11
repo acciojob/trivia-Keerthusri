@@ -1,5 +1,5 @@
 //your code here
-.blackquote
+.blockquote
 {
 	max-width:600px;
 	margin:10px;
